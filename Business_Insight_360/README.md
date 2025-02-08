@@ -48,8 +48,8 @@ Home Page
 ![Dashboard](Images/Home.jpg)
 
 ## 📸 Report Preview 4
-DAX Measure
-![Dashboard](Images/DAX.png)
+Finance view
+![Dashboard](Images/Finance.jpg)
 
 ## 📸 Report Preview 5
 DAX Measure
