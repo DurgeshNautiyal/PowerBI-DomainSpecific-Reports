@@ -35,38 +35,29 @@ This report serves as a unified solution for stakeholders across sales, marketin
 ## 🔗 Power BI Report Link (Live Dashboard)
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYmI1YWM3NjEtNTY2Ni00NTRmLWFjNzAtZGY4M2FmZjViYjc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 📸 Report Preview 1
-Data modelling involving 10+ tables
+## 📸 Report Preview 1: Data modelling involving 10+ tables
 ![Dashboard](Images/Modeling.png)
 
-## 📸 Report Preview 2
-DAX Measure
+## 📸 Report Preview 2: DAX Measure
 ![Dashboard](Images/DAX.png)
 
-## 📸 Report Preview 3
-Home Page
+## 📸 Report Preview 3: Home Page
 ![Dashboard](Images/Home.jpg)
 
-## 📸 Report Preview 4
-Finance view
+## 📸 Report Preview 4: Finance view
 ![Dashboard](Images/Finance.jpg)
 
-## 📸 Report Preview 5
-Sales View
+## 📸 Report Preview 5: Sales View
 ![Dashboard](Images/Sales.jpg)
 
-## 📸 Report Preview 6
-Marketing View
+## 📸 Report Preview 6: Marketing View
 ![Dashboard](Images/Marketing.jpg)
 
-## 📸 Report Preview 7
-Supply Chain View
+## 📸 Report Preview 7: Supply Chain View
 ![Dashboard](Images/Supply.jpg)
 
-## 📸 Report Preview 8
-Executive View
+## 📸 Report Preview 8: Executive View
 ![Dashboard](Images/Executive.jpg)
 
-## 📸 Report Preview 9
-Tool tip
-![Dashboard](Images/Executive.jpg)
+## 📸 Report Preview 9: Tool Tip
+![Dashboard](Images/Tooltip.png)
