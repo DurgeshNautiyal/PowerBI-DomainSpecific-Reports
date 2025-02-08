@@ -39,5 +39,11 @@ A comprehensive Power BI report was developed to provide:
 ## 🔗 Power BI Report Link
 [Click here to view the report](https://app.powerbi.com/view?r=XXXXX)
 
-## 📸 Report Preview
-![Dashboard](Images/dashboard.png)
+## 📸 Report Preview 1: Summary
+![Dashboard](Images/Summary.jpg)
+
+## 📸 Report Preview 2: Customer
+![Dashboard](Images/Customer.jpg)
+
+## 📸 Report Preview 3: Product
+![Dashboard](Images/Product.jpg)
