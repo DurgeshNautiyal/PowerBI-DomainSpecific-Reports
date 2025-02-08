@@ -66,3 +66,7 @@ Supply Chain View
 ## 📸 Report Preview 8
 Executive View
 ![Dashboard](Images/Executive.jpg)
+
+## 📸 Report Preview 9
+Tool tip
+![Dashboard](Images/Executive.jpg)
