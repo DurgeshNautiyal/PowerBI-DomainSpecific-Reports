@@ -26,4 +26,4 @@ Explore my **interactive Power BI reports**:
 
 ## 📞 Contact Me
 📧 Email: durgeshnautiyal11@gmail.com  
-🔗 LinkedIn: [My Profile](linkedin.com/in/durgesh-nautiyal-95a866223)
+🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/durgesh-nautiyal-95a866223/)
