@@ -41,5 +41,3 @@ TechnoEdge's finance data includes three key tables: **Finance Sales Data, Finan
 ## 📸 Report Preview 6
 ![Dashboard](Images/Page5.jpg)
 
-## 📸 Report Preview 7
-![Dashboard](Images/Page6.jpg)
