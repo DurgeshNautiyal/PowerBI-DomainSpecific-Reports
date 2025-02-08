@@ -38,3 +38,31 @@ This report serves as a unified solution for stakeholders across sales, marketin
 ## 📸 Report Preview 1
 Data modelling involving 10+ tables
 ![Dashboard](Images/Modeling.png)
+
+## 📸 Report Preview 2
+DAX Measure
+![Dashboard](Images/DAX.png)
+
+## 📸 Report Preview 3
+Home Page
+![Dashboard](Images/DAX.png)
+
+## 📸 Report Preview 4
+DAX Measure
+![Dashboard](Images/DAX.png)
+
+## 📸 Report Preview 5
+DAX Measure
+![Dashboard](Images/DAX.png)
+
+## 📸 Report Preview 6
+DAX Measure
+![Dashboard](Images/DAX.png)
+
+## 📸 Report Preview 7
+DAX Measure
+![Dashboard](Images/DAX.png)
+
+## 📸 Report Preview 8
+DAX Measure
+![Dashboard](Images/DAX.png)
