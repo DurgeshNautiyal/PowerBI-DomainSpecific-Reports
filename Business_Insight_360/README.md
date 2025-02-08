@@ -33,7 +33,7 @@ This report serves as a unified solution for stakeholders across sales, marketin
 - **Imported Data from 2 sources (MySQL & Excel)**, handling over 1 million records, constructing data models, and creating dynamic visualizations in Power BI.
 
 ## 🔗 Power BI Report Link (Live Dashboard)
-[Click here to view the report](https://app.powerbi.com/view?r=XXXXX)
+[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYmI1YWM3NjEtNTY2Ni00NTRmLWFjNzAtZGY4M2FmZjViYjc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Report Preview 1
 Data modelling involving 10+ tables
