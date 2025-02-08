@@ -32,7 +32,7 @@ This report serves as a unified solution for stakeholders across sales, marketin
 - **Engineered a multi-view Power BI dashboard** for 5 departments (Sales, Finance, Supply Chain, Executive, and Marketing) to analyze global selling patterns at AtliQ Hardware.
 - **Imported Data from 2 sources (MySQL & Excel)**, handling over 1 million records, constructing data models, and creating dynamic visualizations in Power BI.
 
-## 🔗 Power BI Report Link
+## 🔗 Power BI Report Link (Live Dashboard)
 [Click here to view the report](https://app.powerbi.com/view?r=XXXXX)
 
 ## 📸 Report Preview 1
