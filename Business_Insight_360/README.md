@@ -35,5 +35,6 @@ This report serves as a unified solution for stakeholders across sales, marketin
 ## 🔗 Power BI Report Link
 [Click here to view the report](https://app.powerbi.com/view?r=XXXXX)
 
-## 📸 Report Preview
-![Dashboard](Images/dashboard.png)
+## 📸 Report Preview 1
+Data modelling involving 10+ tables
+![Dashboard](Images/Modeling.png)
