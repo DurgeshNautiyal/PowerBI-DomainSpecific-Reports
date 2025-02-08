@@ -52,17 +52,17 @@ Finance view
 ![Dashboard](Images/Finance.jpg)
 
 ## 📸 Report Preview 5
-DAX Measure
-![Dashboard](Images/DAX.png)
+Sales View
+![Dashboard](Images/Sales.jpg)
 
 ## 📸 Report Preview 6
-DAX Measure
-![Dashboard](Images/DAX.png)
+Marketing View
+![Dashboard](Images/Marketing.jpg)
 
 ## 📸 Report Preview 7
-DAX Measure
-![Dashboard](Images/DAX.png)
+Supply Chain View
+![Dashboard](Images/Supply.jpg)
 
 ## 📸 Report Preview 8
-DAX Measure
-![Dashboard](Images/DAX.png)
+Executive View
+![Dashboard](Images/Executive.jpg)
