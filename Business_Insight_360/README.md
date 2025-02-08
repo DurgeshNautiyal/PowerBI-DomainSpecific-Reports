@@ -45,7 +45,7 @@ DAX Measure
 
 ## 📸 Report Preview 3
 Home Page
-![Dashboard](Images/DAX.png)
+![Dashboard](Images/Home.jpg)
 
 ## 📸 Report Preview 4
 DAX Measure
