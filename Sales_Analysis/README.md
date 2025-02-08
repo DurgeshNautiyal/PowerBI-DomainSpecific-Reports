@@ -30,5 +30,8 @@ By implementing Power BI, this project provides:
 ## 🔗 Power BI Report Link  
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYzgzMGQwNmYtZTRjMS00ZmVmLWFhOTctNTNkNzBmOWVjYWE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 📸 Report Preview  
-![Dashboard](Images/dashboard.png)
+## 📸 Report Preview 1
+![Dashboard](Images/Page1.jpg)
+
+## 📸 Report Preview 2
+![Dashboard](Images/Page2.jpg)
