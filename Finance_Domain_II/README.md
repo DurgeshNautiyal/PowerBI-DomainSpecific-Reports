@@ -21,7 +21,7 @@ This Power BI solution consolidates TechnoEdge's financial data into an interact
 TechnoEdge's finance data includes three key tables: **Finance Sales Data, Finance Transactions, and Finance Calendar**. These datasets are used to build an interactive Power BI report that visualizes essential financial metrics. The dashboard enables stakeholders to track sales, profits, customer behaviors, and payment trends across different segments, products, countries, and channels.
 
 ## 🔗 Power BI Report Link
-[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiOGJmMGYzYjktYTY4ZC00Yzg4LWJmOGItN2VjMjQ1YTkwOWQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiOTQ3NTIxNjctOTk4ZS00ZDc4LWFjM2UtYWIwNGFkZDYyY2RkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Report Preview 1
 ![Dashboard](Images/Home.jpg)
