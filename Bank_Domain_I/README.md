@@ -21,7 +21,7 @@ This Power BI report provides an interactive dashboard for tracking customer dem
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiNGQxMjIwMzAtNTk1OS00NDc2LWI4M2YtZmY0OTIwZGI5MGZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Report Preview
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.jpg)
 
 ## 📈 Project Summary
 This Power BI dashboard integrates customer and loan details from multiple sources to provide deep insights into loan trends, customer income distribution, and financial performance. The interactive visualizations help banks optimize risk assessment and lending decisions.
