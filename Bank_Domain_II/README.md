@@ -28,5 +28,5 @@ A **Power BI dashboard** that enables:
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiZTJhZjg2MGYtMGEyNC00N2Q0LTk4YTItN2NkMWM1Nzg5MjZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Report Preview  
-![Dashboard](Images/dashboard.png)  
+![Dashboard](Images/Dashboard.jpg)  
 
