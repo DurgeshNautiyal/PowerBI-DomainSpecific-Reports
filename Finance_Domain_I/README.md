@@ -1,4 +1,4 @@
-# Finance Domain I 🚀
+# Finance Domain I 💰
 
 ## 📊 Overview
 **Explore TechnoEdge Financial Performance with Interactive Data Analysis on Sales, Profit, and Discounts Across Product Segments and Countries.**
