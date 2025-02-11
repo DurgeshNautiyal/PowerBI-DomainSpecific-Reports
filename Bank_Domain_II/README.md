@@ -24,7 +24,7 @@ A **Power BI dashboard** that enables:
 7️⃣ Analyze the **relationship between account tenure and balance trends**.  
 8️⃣ Identify the **top three countries** with the highest number of customers.  
 
-## 🔗 Power BI Report Link  
+## 🔗 Power BI Report Link (Live Dashboard)
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiZTJhZjg2MGYtMGEyNC00N2Q0LTk4YTItN2NkMWM1Nzg5MjZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Report Preview  
