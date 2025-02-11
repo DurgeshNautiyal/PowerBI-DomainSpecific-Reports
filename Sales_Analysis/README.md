@@ -27,7 +27,7 @@ By implementing Power BI, this project provides:
 - **DAX Formulas**: Custom calculations for sales forecasting and trend analysis.  
 - **Data Integration**: Combined data from multiple sources for a holistic view.  
 
-## 🔗 Power BI Report Link  
+## 🔗 Power BI Report Link (Live Dashboard)
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYzgzMGQwNmYtZTRjMS00ZmVmLWFhOTctNTNkNzBmOWVjYWE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Report Preview 1
