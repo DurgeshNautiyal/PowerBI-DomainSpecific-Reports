@@ -36,7 +36,7 @@ A comprehensive Power BI report was developed to provide:
 - **Collaboration with Stakeholders**
 - **Sales & Marketing Analytics**
 
-## 🔗 Power BI Report Link
+## 🔗 Power BI Report Link (Live Dashboard)
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiOGEyYmM5ZTAtMmYzMS00YzcyLWJkZGYtNzc5OGM4Nzk5NGY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📸 Report Preview 1: Summary
