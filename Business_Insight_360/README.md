@@ -41,23 +41,17 @@ This report serves as a unified solution for stakeholders across sales, marketin
 ## 📸 Report Preview 2: Data modelling involving 10+ tables
 ![Dashboard](Images/Modeling.png)
 
-## 📸 Report Preview 3: DAX Measure
-![Dashboard](Images/DAX.png)
-
-## 📸 Report Preview 4: Finance view
+## 📸 Report Preview 3: Finance view
 ![Dashboard](Images/Finance.jpg)
 
-## 📸 Report Preview 5: Sales View
+## 📸 Report Preview 4: Sales View
 ![Dashboard](Images/Sales.jpg)
 
-## 📸 Report Preview 6: Marketing View
+## 📸 Report Preview 5: Marketing View
 ![Dashboard](Images/Marketing.jpg)
 
-## 📸 Report Preview 7: Supply Chain View
+## 📸 Report Preview 6: Supply Chain View
 ![Dashboard](Images/Supply.jpg)
 
-## 📸 Report Preview 8: Executive View
+## 📸 Report Preview 7: Executive View
 ![Dashboard](Images/Executive.jpg)
-
-## 📸 Report Preview 9: Tool Tip
-![Dashboard](Images/Tooltip.png)
