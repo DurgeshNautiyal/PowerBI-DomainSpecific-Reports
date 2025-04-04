@@ -42,7 +42,7 @@ This report serves as a unified solution for stakeholders across sales, marketin
 ![Dashboard](Images/Modeling.png)
 
 ## 📸 Report Preview 3: Finance view
-![Dashboard](Images/Finance.jpg)
+![Dashboard](Images/Finance.png)
 
 ## 📸 Report Preview 4: Sales View
 ![Dashboard](Images/Sales.jpg)
