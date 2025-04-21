@@ -1,14 +1,14 @@
-# Finance Domain I 💰
+# Finance Domain I 
 
-## 📊 Overview
+## Overview
 **Explore TechnoEdge Financial Performance with Interactive Data Analysis on Sales, Profit, and Discounts Across Product Segments and Countries.**
 
 TechnoEdge aims to improve its financial decision-making by leveraging data analysis to gain insights into sales trends, profitability, and pricing strategies.
 
-## 🔧 Problem Statement
+## Problem Statement
 TechnoEdge faces challenges in optimizing product pricing, understanding the impact of discounts on sales, and identifying high-profit segments across different countries. A comprehensive financial analysis is required to enhance profitability and operational efficiency.
 
-## 🛠️ Solution
+## Solution
 A Power BI dashboard was developed to analyze key financial metrics, including:
 - Sales performance by country and segment.
 - Impact of discount bands on sales and profitability.
@@ -16,7 +16,7 @@ A Power BI dashboard was developed to analyze key financial metrics, including:
 - Relationship between manufacturing costs and sales revenue.
 - Cost of Goods Sold (COGS) analysis to identify high-cost products.
 
-## 🔢 Objectives
+## Objectives
 1. Identify top-selling products and their profit contribution by country and segment.
 2. Analyze the influence of discount bands on sales volume and revenue.
 3. Determine peak sales months across all segments and countries.
@@ -25,7 +25,7 @@ A Power BI dashboard was developed to analyze key financial metrics, including:
 6. Evaluate country-wise sales and profit trends for strategic improvements.
 7. Analyze daily sales trends to determine peak revenue-generating days.
 
-## 📂 Project Summary
+## Project Summary
 TechnoEdge Financial Dataset provides deep insights into product sales, profitability, and cost management across multiple segments and countries, enabling data-driven financial decisions.
 
 ## 🔗 Power BI Report Link (Live Dashboard)
