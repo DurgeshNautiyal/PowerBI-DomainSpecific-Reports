@@ -1,19 +1,19 @@
-# FMCG Sales Analysis Report 📊
+# FMCG Sales Analysis Report 
 
-## 🔍 Overview
+## Overview
 **Title:** FMCG Sales Analysis for TechnoEdge
 
 **Project Summary:**  
 TechnoEdge, a diversified FMCG company, faced challenges in understanding sales trends across regions and product categories. This project leverages Power BI to uncover insights, optimize sales strategies, and drive business growth.
 
-## 🚨 Problem Statement
+## Problem Statement
 TechnoEdge struggled with fragmented sales data, making it difficult to:
 - Identify high and low-performing products.
 - Understand customer behavior and buying patterns.
 - Analyze sales trends across different regions.
 - Optimize pricing, discount strategies, and inventory management.
 
-## ✅ Solution
+## Solution ✅
 A comprehensive Power BI report was developed to provide:
 - **Sales Performance Insights** – Tracking revenue, profit, and profit margins.
 - **Customer Analysis** – Understanding retention, lifetime value, and purchase behavior.
@@ -21,7 +21,7 @@ A comprehensive Power BI report was developed to provide:
 - **Region-Wise Breakdown** – Analyzing sales trends across locations.
 - **Interactive Dashboards** – Allowing stakeholders to drill down and gain meaningful insights.
 
-## 🎯 Objectives
+## Objectives 
 1. Analyze sales data across regions, countries, and product categories.
 2. Identify trends and patterns to improve business performance.
 3. Understand customer preferences based on purchasing behavior.
