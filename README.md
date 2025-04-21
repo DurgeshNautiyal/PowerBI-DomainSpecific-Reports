@@ -1,4 +1,4 @@
-# Power BI Portfolio 🎯
+# Power BI Portfolio 
 
 ## 📊 My Power BI Reports
 Explore my **interactive Power BI reports**:
