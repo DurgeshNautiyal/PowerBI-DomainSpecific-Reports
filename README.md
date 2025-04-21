@@ -1,6 +1,6 @@
 # Power BI Portfolio 
 
-## 📊 My Power BI Reports
+## My Power BI Reports
 Explore my **interactive Power BI reports**:
 
 1️⃣ **[Business Insight 360](Business_Insight_360/README.md)**  
@@ -25,5 +25,5 @@ Explore my **interactive Power BI reports**:
 - **HR Domain:** [🔗 View Report](https://app.powerbi.com/view?r=eyJrIjoiMGQyZTY5MWItZWFmNS00NjhmLWIyMmYtMjQ4ZjM2YTQyNGY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📞 Contact Me
-📧 Email: durgeshnautiyal11@gmail.com  
-🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/durgesh-nautiyal-95a866223/)
+📩 [durgeshnautiyal11@gmail.com](durgeshnautiyal11@gmail.com)       
+🔗 [LinkedIn](https://www.linkedin.com/in/durgesh-nautiyal-95a866223/)
