@@ -25,5 +25,5 @@ Explore my **interactive Power BI reports**:
 - **HR Domain:** [🔗 View Report](https://app.powerbi.com/view?r=eyJrIjoiMGQyZTY5MWItZWFmNS00NjhmLWIyMmYtMjQ4ZjM2YTQyNGY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📞 Contact Me
-📩 [durgeshnautiyal11@gmail.com](durgeshnautiyal11@gmail.com)       
+📩 durgeshnautiyal11@gmail.com     
 🔗 [LinkedIn](https://www.linkedin.com/in/durgesh-nautiyal-95a866223/)
