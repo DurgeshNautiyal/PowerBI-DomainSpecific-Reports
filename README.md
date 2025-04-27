@@ -1,7 +1,7 @@
-# Power BI Portfolio 
+# Power BI Portfolio
 
-## My Power BI Reports
-Explore my **interactive Power BI reports**:
+## Demonstrating Power BI Skills Through Diverse Domain Applications
+Explore my **interactive Power BI Reports & Dashboards**:
 
 1️⃣ **[Business Insight 360](Business_Insight_360/README.md)**  
 2️⃣ **[FMCG Sales Analysis Report](FMCG_Sales_Analysis/README.md)**  
