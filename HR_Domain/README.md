@@ -1,24 +1,24 @@
-# HR Domain 👥  
+# HR Domain
 
-## 📊 Overview  
+## Overview  
 The **TechnoEdge Employee Details dataset** contains information on employee **ID, name, position, salary, attendance, and demographics**. This Power BI report provides **insights into workforce trends, performance, and overall productivity**.  
 
-## 🔍 Problem Statement  
+## Problem Statement  
 TechnoEdge struggles with **understanding workforce efficiency, attendance trends, employee turnover, and salary distribution**. Without proper analytics, identifying key workforce trends and making informed HR decisions becomes challenging.  
 
-## ⚠️ Gap  
+## Gap  
 - **Lack of visibility** into attendance and performance metrics.  
 - **No clear insights** on employee skills, experience, and department-wise distribution.  
 - **Limited understanding** of employee retention and turnover trends.  
 
-## ✅ Solution  
+## Solution  
 A **Power BI dashboard** that provides:  
 - **Attendance analysis** to track employee presence.  
 - **Employee qualifications and skills** visualization.  
 - **Department-wise gender distribution** for diversity insights.  
 - **Experience and salary trends** to identify pay gaps.  
 
-## 🎯 Objectives  
+## Objectives  
 1️⃣ **Analyze attendance patterns** for workforce efficiency.  
 2️⃣ Display **education qualifications and skills** for employee development.  
 3️⃣ **Count employees by age and gender** using bar charts.  
