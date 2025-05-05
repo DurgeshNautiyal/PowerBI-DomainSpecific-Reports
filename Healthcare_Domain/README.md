@@ -1,18 +1,18 @@
-# Healthcare Domain 🏥  
+# Healthcare Domain
 
-## 📊 Overview  
+## Overview  
 The **TechnoEdge Healthcare Product Pricing dataset** contains details on **product ID, vendor, brand name, unit price, dosage form, and manufacturer location**. This Power BI report provides **insights into pricing trends, vendor selection, and product development** through interactive analysis.  
 
-## 🔍 Problem Statement  
+## Problem Statement  
 TechnoEdge lacks **visibility into pricing trends, vendor performance, and product demand** across different healthcare categories. Without clear insights, optimizing pricing strategies and improving vendor selection remains a challenge.  
 
-## ⚠️ Gap  
+## Gap  
 - **No centralized view** of pricing patterns across product groups.  
 - **Lack of insights** on vendor and manufacturer performance.  
 - **Unclear impact** of discounts and packaging on sales.  
 - **Limited understanding** of geographic price variations.  
 
-## ✅ Solution  
+## Solution  
 A **Power BI dashboard** that provides:  
 - **Pricing analysis** across sub-categories and product groups.  
 - **Top vendors and manufacturers by sales** to aid supplier decisions.  
@@ -21,7 +21,7 @@ A **Power BI dashboard** that provides:
 - **Effectiveness of discounts on sales trends** to refine pricing strategies.  
 - **Geographic pricing trends** for better market positioning.  
 
-## 🎯 Objectives  
+## Objectives  
 1️⃣ **Analyze pricing trends** across product groups.  
 2️⃣ Identify **top vendors and manufacturers** based on sales.  
 3️⃣ Determine **top-selling molecules/test types and their prices**.  
