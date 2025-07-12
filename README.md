@@ -3,18 +3,16 @@
 ## Demonstrating Power BI Skills Through Diverse Domain Applications
 Explore my **interactive Power BI Reports & Dashboards**:
 
-0️⃣1️⃣ **[Business Insight 360](Business_Insight_360/README.md)**  
-0️⃣2️⃣ **[FMCG Sales Analysis Report](FMCG_Sales_Analysis/README.md)**  
-0️⃣3️⃣ **[Sales Analysis Report](Sales_Analysis/README.md)**  
-0️⃣4️⃣ **[Finance Domain I](Finance_Domain_I/README.md)**  
-0️⃣5️⃣ **[Finance Domain II](Finance_Domain_II/README.md)**  
-0️⃣6️⃣ **[Bank Domain I](Bank_Domain_I/README.md)**  
-0️⃣7️⃣ **[Bank Domain II](Bank_Domain_II/README.md)**  
-0️⃣8️⃣ **[Healthcare Domain](Healthcare_Domain/README.md)**  
-0️⃣9️⃣ **[HR Domain](HR_Domain/README.md)**  
+1️⃣ **[FMCG Sales Analysis Report](FMCG_Sales_Analysis/README.md)**  
+2️⃣ **[Sales Analysis Report](Sales_Analysis/README.md)**  
+3️⃣ **[Finance Domain I](Finance_Domain_I/README.md)**  
+4️⃣ **[Finance Domain II](Finance_Domain_II/README.md)**  
+5️⃣ **[Bank Domain I](Bank_Domain_I/README.md)**  
+6️⃣ **[Bank Domain II](Bank_Domain_II/README.md)**  
+7️⃣ **[Healthcare Domain](Healthcare_Domain/README.md)**  
+8️⃣ **[HR Domain](HR_Domain/README.md)**  
 
 ## 🔗 Live Reports (Power BI Service)
-- **Business Insight 360:** [🔗 View Report](https://app.powerbi.com/view?r=eyJrIjoiYmI1YWM3NjEtNTY2Ni00NTRmLWFjNzAtZGY4M2FmZjViYjc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - **FMCG Sales Analysis Report:** [🔗 View Report](https://app.powerbi.com/view?r=eyJrIjoiOGEyYmM5ZTAtMmYzMS00YzcyLWJkZGYtNzc5OGM4Nzk5NGY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - **Sales Analysis Report:** [🔗 View Report](https://app.powerbi.com/view?r=eyJrIjoiYzgzMGQwNmYtZTRjMS00ZmVmLWFhOTctNTNkNzBmOWVjYWE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - **Finance Domain I:** [🔗 View Report](https://app.powerbi.com/view?r=eyJrIjoiNGNiOGNhZjctYjA5YS00NjMwLWJiYmEtMzVkN2JiYWNmYWM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
