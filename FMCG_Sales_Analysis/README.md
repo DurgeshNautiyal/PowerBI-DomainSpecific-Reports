@@ -13,7 +13,7 @@ TechnoEdge struggled with fragmented sales data, making it difficult to:
 - Analyze sales trends across different regions.
 - Optimize pricing, discount strategies, and inventory management.
 
-## Solution ✅
+## Solution
 A comprehensive Power BI report was developed to provide:
 - **Sales Performance Insights** – Tracking revenue, profit, and profit margins.
 - **Customer Analysis** – Understanding retention, lifetime value, and purchase behavior.
@@ -29,7 +29,7 @@ A comprehensive Power BI report was developed to provide:
 5. Monitor key sales metrics and identify areas for improvement.
 6. Develop interactive visualizations to support strategic decision-making.
 
-## 🛠️ Key Learnings & Tools Used
+## Key Learnings & Tools Used
 - **Data Visualization & Analysis Concepts**
 - **Power BI Tools:** Power Query, Power Pivot, Power View
 - **Data Modeling & ETL Processes**
