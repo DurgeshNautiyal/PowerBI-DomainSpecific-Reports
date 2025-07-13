@@ -39,11 +39,11 @@ A comprehensive Power BI report was developed to provide:
 ## 🔗 Power BI Report Link (Live Dashboard)
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiOGEyYmM5ZTAtMmYzMS00YzcyLWJkZGYtNzc5OGM4Nzk5NGY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 📸 Report Preview 1: Summary
+## Report Preview 1: Summary
 ![Dashboard](Images/Summary.jpg)
 
-## 📸 Report Preview 2: Customer
+## Report Preview 2: Customer
 ![Dashboard](Images/Customer.jpg)
 
-## 📸 Report Preview 3: Product
+## Report Preview 3: Product
 ![Dashboard](Images/Product.jpg)
