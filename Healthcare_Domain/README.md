@@ -34,5 +34,5 @@ A **Power BI dashboard** that provides:
 ## 🔗 Power BI Report Link (Live Dashboard)  
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiMWJkNGJlYzAtMDFjNy00YjdmLWFiYTYtZmE3N2Q1MGQyNTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 📸 Report Preview  
+## Report Preview  
 ![Dashboard](Images/Dashboard.jpg)  
