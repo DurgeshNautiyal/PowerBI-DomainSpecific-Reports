@@ -7,10 +7,13 @@ TechnoEdge aims to optimize its sales and customer engagement by analyzing sales
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYzgzMGQwNmYtZTRjMS00ZmVmLWFhOTctNTNkNzBmOWVjYWE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Report Preview 1
-![Dashboard](Images/Page1.jpg)
+![Dashboard](Images/Home.png)
 
 ## Report Preview 2
-![Dashboard](Images/Page2.jpg)
+![Dashboard](Images/Page1.png)
+
+## Report Preview 3
+![Dashboard](Images/Page2.png)
 
 ## Problem Statement  
 TechnoEdge lacks data-driven decision-making capabilities, leading to inefficiencies in sales performance, customer retention, and product management. Without a clear understanding of sales trends and customer preferences, the company struggles to maximize profitability and optimize marketing strategies.
