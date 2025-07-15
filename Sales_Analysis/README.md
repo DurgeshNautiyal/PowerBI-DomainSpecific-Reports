@@ -3,6 +3,15 @@
 ## Overview  
 TechnoEdge aims to optimize its sales and customer engagement by analyzing sales data from 2022 to 2024. The dataset includes details on customers, products, territories, returns, and sales transactions. This report leverages Power BI to provide interactive visualizations and insights into sales trends, customer behavior, and product performance.
 
+## Power BI Report Link (Live Dashboard)
+[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYzgzMGQwNmYtZTRjMS00ZmVmLWFhOTctNTNkNzBmOWVjYWE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+## Report Preview 1
+![Dashboard](Images/Page1.jpg)
+
+## Report Preview 2
+![Dashboard](Images/Page2.jpg)
+
 ## Problem Statement  
 TechnoEdge lacks data-driven decision-making capabilities, leading to inefficiencies in sales performance, customer retention, and product management. Without a clear understanding of sales trends and customer preferences, the company struggles to maximize profitability and optimize marketing strategies.
 
@@ -26,12 +35,3 @@ By implementing Power BI, this project provides:
 - **Power BI Visualizations**: Interactive charts and KPIs to monitor sales.  
 - **DAX Formulas**: Custom calculations for sales forecasting and trend analysis.  
 - **Data Integration**: Combined data from multiple sources for a holistic view.  
-
-## 🔗 Power BI Report Link (Live Dashboard)
-[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYzgzMGQwNmYtZTRjMS00ZmVmLWFhOTctNTNkNzBmOWVjYWE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-## 📸 Report Preview 1
-![Dashboard](Images/Page1.jpg)
-
-## 📸 Report Preview 2
-![Dashboard](Images/Page2.jpg)
