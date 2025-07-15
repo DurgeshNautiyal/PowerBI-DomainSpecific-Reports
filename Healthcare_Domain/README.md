@@ -3,7 +3,7 @@
 ## Overview  
 The **TechnoEdge Healthcare Product Pricing dataset** contains details on **product ID, vendor, brand name, unit price, dosage form, and manufacturer location**. This Power BI report provides **insights into pricing trends, vendor selection, and product development** through interactive analysis.  
 
-## 🔗 Power BI Report Link (Live Dashboard)  
+## Power BI Report Link (Live Dashboard)  
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiMWJkNGJlYzAtMDFjNy00YjdmLWFiYTYtZmE3N2Q1MGQyNTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Report Preview  
