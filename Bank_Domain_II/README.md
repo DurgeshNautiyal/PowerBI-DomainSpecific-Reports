@@ -3,6 +3,12 @@
 ## Overview  
 Explore the **TechnoEdge banking dataset**, which includes customer demographics, account details, and loan information. This interactive Power BI report helps in analyzing key metrics such as customer age, gender, job classification, balance, and loan details for better decision-making.  
 
+## Power BI Report Link (Live Dashboard)
+[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiZTJhZjg2MGYtMGEyNC00N2Q0LTk4YTItN2NkMWM1Nzg5MjZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+## Report Preview  
+![Dashboard](Images/Dashboard.jpg)  
+
 ## Problem Statement  
 TechnoEdge needs a **comprehensive banking analytics solution** to understand customer demographics, account balances, and loan distributions. Without proper insights, the company struggles to identify trends and make data-driven financial decisions.  
 
@@ -23,10 +29,3 @@ A **Power BI dashboard** that enables:
 6️⃣ Determine the **most common account type** among customers.  
 7️⃣ Analyze the **relationship between account tenure and balance trends**.  
 8️⃣ Identify the **top three countries** with the highest number of customers.  
-
-## 🔗 Power BI Report Link (Live Dashboard)
-[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiZTJhZjg2MGYtMGEyNC00N2Q0LTk4YTItN2NkMWM1Nzg5MjZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-## Report Preview  
-![Dashboard](Images/Dashboard.jpg)  
-
