@@ -3,6 +3,9 @@
 ## Overview
 **Title:** FMCG Sales Analysis for TechnoEdge
 
+**Project Summary:**  
+TechnoEdge, a diversified FMCG company, faced challenges in understanding sales trends across regions and product categories. This project leverages Power BI to uncover insights, optimize sales strategies, and drive business growth.
+
 ## Power BI Report Link (Live Dashboard)
 [Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiOGEyYmM5ZTAtMmYzMS00YzcyLWJkZGYtNzc5OGM4Nzk5NGY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -14,9 +17,6 @@
 
 ## Report Preview 3: Product
 ![Dashboard](Images/Product.jpg)
-
-**Project Summary:**  
-TechnoEdge, a diversified FMCG company, faced challenges in understanding sales trends across regions and product categories. This project leverages Power BI to uncover insights, optimize sales strategies, and drive business growth.
 
 ## Problem Statement
 TechnoEdge struggled with fragmented sales data, making it difficult to:
