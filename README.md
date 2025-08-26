@@ -23,5 +23,5 @@ Explore my **interactive Power BI Reports & Dashboards**:
 8️⃣ **[HR Domain](HR_Domain/README.md)**  
 
 ## Contact Me
-📩 durgeshnautiyal11@gmail.com     
-🔗 [LinkedIn](https://www.linkedin.com/in/durgesh-nautiyal-95a866223/)
+durgeshnautiyal11@gmail.com     
+[LinkedIn](https://www.linkedin.com/in/durgesh-nautiyal-95a866223/)
