@@ -4,7 +4,7 @@
 TechnoEdge aims to optimize its sales and customer engagement by analyzing sales data from 2022 to 2024. The dataset includes details on customers, products, territories, returns, and sales transactions. This report leverages Power BI to provide interactive visualizations and insights into sales trends, customer behavior, and product performance.
 
 ## Power BI Report Link (Live Dashboard)
-[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYzgzMGQwNmYtZTRjMS00ZmVmLWFhOTctNTNkNzBmOWVjYWE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click here to view the report](https://app.powerbi.com/view?r=eyJrIjoiYjE5YTI1NWItZDBjNi00YzNiLTg2YTEtMjc2MzJhYjhkNjhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Report Preview 1
 ![Dashboard](Images/Home.png)
