@@ -21,11 +21,11 @@ A **Power BI dashboard** that enables:
 - **Trend analysis** of account balance over customer tenure  
 
 ## Objectives  
-1️⃣ Analyze the **age distribution** of TechnoEdge banking customers.  
-2️⃣ Compare the **average account balance** between male and female customers.  
-3️⃣ Identify the **top three states** with the highest number of customers.  
-4️⃣ Explore the **correlation between job classification and loan types**.  
-5️⃣ Compare **housing loan distribution** between married and unmarried customers.  
-6️⃣ Determine the **most common account type** among customers.  
-7️⃣ Analyze the **relationship between account tenure and balance trends**.  
-8️⃣ Identify the **top three countries** with the highest number of customers.  
+1. Analyze the **age distribution** of TechnoEdge banking customers.  
+2. Compare the **average account balance** between male and female customers.  
+3. Identify the **top three states** with the highest number of customers.  
+4. Explore the **correlation between job classification and loan types**.  
+5. Compare **housing loan distribution** between married and unmarried customers.  
+6. Determine the **most common account type** among customers.  
+7. Analyze the **relationship between account tenure and balance trends**.  
+8. Identify the **top three countries** with the highest number of customers.  
